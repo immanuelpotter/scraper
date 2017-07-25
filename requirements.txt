@@ -1,3 +1,4 @@
+python==2.7.12
 pip==9.0.1
 BeautifulSoup==3.2.1
 requests==2.9.1
